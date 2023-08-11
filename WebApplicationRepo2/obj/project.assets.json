@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\salma\\OneDrive\\Documents\\git\\romeosonarcloud\\repo2\\WebApplicationRepo2\\WebApplicationRepo2\\WebApplicationRepo2.csproj",
+      "projectUniqueName": "C:\\Users\\salma\\OneDrive\\Documents\\git\\romeosonarcloud\\repo2\\WebApplicationRepo2\\WebApplicationRepo2.csproj",
       "projectName": "WebApplicationRepo2",
-      "projectPath": "C:\\Users\\salma\\OneDrive\\Documents\\git\\romeosonarcloud\\repo2\\WebApplicationRepo2\\WebApplicationRepo2\\WebApplicationRepo2.csproj",
+      "projectPath": "C:\\Users\\salma\\OneDrive\\Documents\\git\\romeosonarcloud\\repo2\\WebApplicationRepo2\\WebApplicationRepo2.csproj",
       "packagesPath": "C:\\Users\\salma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\salma\\OneDrive\\Documents\\git\\romeosonarcloud\\repo2\\WebApplicationRepo2\\WebApplicationRepo2\\obj\\",
+      "outputPath": "C:\\Users\\salma\\OneDrive\\Documents\\git\\romeosonarcloud\\repo2\\WebApplicationRepo2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\salma\\AppData\\Roaming\\NuGet\\NuGet.Config",
